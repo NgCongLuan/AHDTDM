@@ -1,12 +1,10 @@
 ---
 layout: ../../layouts/BlogPost.astro
-title: My Test Blog
+title: blog nhóm 4- bài tập nhóm 3
 description: Test Blog Description
 publishDate: 2022-08-14T23:08:09.295Z
-heroImage: /assets/placeholder-hero.jpg
+heroImage: /assets/kayn_15.jpg
 ---
-This is the body of my test blog.
+n﻿guyễn công luận
 
-
-
-# It works!
+# n﻿hóm 4
